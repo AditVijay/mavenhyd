@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-	MyTest m=new Mytest();
+	MyTest m=new MyTest();
 	m.getData();
         System.out.println( "Hello World!" );
     }
